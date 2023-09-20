@@ -6,9 +6,13 @@
 About Project:
 
 This projects is for localize patients and doctors where patients and doctors can register there self and follow up the below working method.
+<br>
 1.Patients and Doctors can register thereselves
+<br>
 2.Doctors can add there accupations and availabilty
+<br>
 3.Patients can book the appointments with respected doctors with the time availablity
+<br>
 4.This projects includes CRUD operations and watch the installation video for much more
 
 Requirements Modules Open command prompt and download these below modules
