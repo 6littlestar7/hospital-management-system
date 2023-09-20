@@ -1,23 +1,38 @@
-# hospital-management-system
+# Hospital Management System
 
-# Frontend: Bootstrap ,Html, CSS, Javascript
-# Backend: Python Flask
+## Overview
 
-About Project:
+The Hospital Management System is a web-based application designed to facilitate the efficient booking of appointments for patients and doctors. This system is built using HTML, CSS, JavaScript, Python, Bootstrap, NodeJS, and uses a MySQL database.
 
-This projects is for localize patients and doctors where patients and doctors can register there self and follow up the below working method.
-<br>
-1.Patients and Doctors can register thereselves
-<br>
-2.Doctors can add there accupations and availabilty
-<br>
-3.Patients can book the appointments with respected doctors with the time availablity
-<br>
-4.This projects includes CRUD operations and watch the installation video for much more
+## Features
 
-Requirements Modules Open command prompt and download these below modules
-1. pip install flask
-2. pip install Flask-SQLAlchemy
-3. pip install Flask-Mail
-4. pip install mysqlclient
-5. pip install Flask-Login 
+- **User Registration**: Patients and doctors can easily register themselves on the platform.
+
+- **Doctor Profiles**: Doctors can create profiles detailing their specialties and availability.
+
+- **Appointment Booking**: Patients can conveniently book appointments with their preferred doctors based on available time slots.
+
+## Project Details
+
+The main objective of this project is to connect patients and doctors within a local community, simplifying the process of scheduling medical appointments. Here's a breakdown of how the system operates:
+
+1. **User Registration**: Both patients and doctors can sign up for accounts on the platform.
+
+2. **Doctor Profiles**: Doctors can provide information about their medical specialties and working hours to help patients find the right match.
+
+3. **Appointment Booking**: Patients can book appointments with doctors according to the doctors' availability.
+
+4. **CRUD Operations**: The system includes Create, Read, Update, and Delete operations for managing user data effectively.
+
+For step-by-step instructions on setting up and running the system, please consult the installation video.
+
+## Requirements
+
+Before running the system, ensure that you have the following Python modules installed:
+
+```bash
+pip install flask
+pip install Flask-SQLAlchemy
+pip install Flask-Mail
+pip install mysqlclient
+pip install Flask-Login
